@@ -44,6 +44,7 @@ function draw(){
     console.log(box2.body.position.x);
     console.log(box2.body.position.y);
     console.log(box2.body.angle);
+    text ("angry bird game",50,50)
     box1.display();
     box2.display();
     ground.display();
